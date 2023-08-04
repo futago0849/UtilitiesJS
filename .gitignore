@@ -1,0 +1,12 @@
+
+node_modules/
+
+public/dist/
+
+public/assets/
+
+.env
+
+uploads/
+
+bin/daemon/
